@@ -6,6 +6,9 @@ tags: second-tag
 layout: layouts/post.njk
 ---
 
+![A 1mb image test](/img/picture.jpg)
+Photo by <a href="https://unsplash.com/@mueen_30?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mueen Agherdien</a> on <a href="https://unsplash.com/t/architecture-interior?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
 Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
