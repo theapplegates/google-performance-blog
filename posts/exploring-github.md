@@ -8,7 +8,7 @@ tags:
   - impressive
 layout: layouts/post.njk
 ---
-Sometimes you see something that catches your eye and you have to find out more. This is what happened when I saw the Github page for [Thomas Anderson](https://github.com/Driminary/thomas-anderson.net). I saw a beautiful sketch of his web site architecture, shown below in all it's glory, a 2.4MB PNG file.
+Sometimes you see something that catches your eye and you have to find out more. This is what happened when I saw the Github page for [Thomas Anderson](https://github.com/Driminary/thomas-anderson.net). I saw a beautiful sketch of his web site architecture, shown below in all its glory, a [2.4MB PNG file](https://camo.githubusercontent.com/7677813a6330d6426339ae2b9959603ea5703e1ceebfff0aa105ae5f332fdc42/68747470733a2f2f692e6962622e636f2f3046543870784d2f6172636869746563747572652e706e67).
 
 ![sketch](../../img/website.png)
 
